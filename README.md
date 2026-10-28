@@ -7,8 +7,8 @@ Trabalho da disciplina **Web Development Front-End** – Centro Universitário U
 ## Demonstração
 
 - 🎬 Vídeo pitch: https://youtu.be/sdDIXy5cSOU
-- 🌐 Site publicado: _adicione aqui o link do GitHub Pages_
-
+- 🌐 Site publicado: https://github.com/igor-rgomes/rick-and-morty-app
+  
 ## Tecnologias
 
 - HTML5
